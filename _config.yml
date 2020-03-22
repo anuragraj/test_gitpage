@@ -1,18 +1,9 @@
-# Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
-locale:       "en"
+theme: jekyll-theme-cayman
 
-# About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+title: COVID-INDIA
+description: A Basic COVID-19 Guide for India | भारत के लिए एक COVID-19 गाइड
 
-# Gems
-gems:
-  - jekyll-paginate
+github:
+  is_project_page: false
 
-#Others
-markdown: kramdown
+google_analytics: UA-112390516-3
